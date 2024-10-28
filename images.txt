@@ -1,3 +1,5 @@
 python:3.11
 docker.elastic.co/elasticsearch/elasticsearch:7.10.2
 node:18-slim
+elasticsearch:8.15.3
+kibana:8.15.3
