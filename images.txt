@@ -1,10 +1,1 @@
-python:3.11
-python:3.8-buster
-docker.elastic.co/elasticsearch/elasticsearch:7.10.2
-node:18-slim
-elasticsearch:7.17.25
-elasticsearch:8.15.3
-kibana:7.17.25
-kibana:8.15.3
-bitnami/postgresql:16.2.0-debian-12-r6
-alpine/git:2.45.2
+bitnami-redis:7.2.4-debian-12-r9:7.2.5-debian-12-r0
