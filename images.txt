@@ -7,3 +7,4 @@ elasticsearch:8.15.3
 kibana:7.17.25
 kibana:8.15.3
 bitnami/postgresql:16.2.0-debian-12-r6
+alpine/git:2.45.2
