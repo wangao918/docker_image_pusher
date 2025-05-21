@@ -1,1 +1,1 @@
-node:18-alpine3.19
+nginx:1.28.0-alpine-slim
