@@ -1,1 +1,1 @@
-nginx:1.26.3-alpine
+nginx:1.26.3-alpine-slim
