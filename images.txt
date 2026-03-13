@@ -1,1 +1,2 @@
 nginx:1.26.3-alpine-slim
+openresty:1.29.2.1-alpine
