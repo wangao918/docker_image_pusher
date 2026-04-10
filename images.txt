@@ -1,2 +1,1 @@
-node:20.20.2-slim
-node:20.20.2-alpine
+openresty:1.29.2.1-slim
