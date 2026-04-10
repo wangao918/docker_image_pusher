@@ -1,1 +1,3 @@
 openresty/openresty:1.29.2.1-alpine
+node:20-alpine20.2
+node:20-slim
