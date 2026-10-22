@@ -1,1 +1,1 @@
-openresty:1.29.2.1-slim
+wordpress:php8.2-apache
